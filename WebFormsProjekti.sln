@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsPrimjeri", "WebFormsPrimjeri\WebFormsPrimjeri.csproj", "{7094B968-95C7-495A-8302-F525B017F0B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagement", "..\StateManagement\StateManagement\StateManagement.csproj", "{69830F71-4AB4-4BD2-B7DB-438DE2ABD6D7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NETProjekt", "ADO.NETProjekt\ADO.NETProjekt.csproj", "{76057DD3-DEA1-4084-B520-9A35AD53BBE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterPrimjerProjekt", "MasterPrimjerProjekt\MasterPrimjerProjekt.csproj", "{525A9454-B29A-4213-8FA8-AD969D5E4D04}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginProjekt", "LoginProjekt\LoginProjekt.csproj", "{0160A0BD-8302-4412-A836-A17F292C22DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagementProjekt", "StateManagementProjekt\StateManagementProjekt.csproj", "{23E6C3BC-7175-4150-A4AB-B808DAC25A4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		{7094B968-95C7-495A-8302-F525B017F0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7094B968-95C7-495A-8302-F525B017F0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7094B968-95C7-495A-8302-F525B017F0B6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{69830F71-4AB4-4BD2-B7DB-438DE2ABD6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{69830F71-4AB4-4BD2-B7DB-438DE2ABD6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{69830F71-4AB4-4BD2-B7DB-438DE2ABD6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{69830F71-4AB4-4BD2-B7DB-438DE2ABD6D7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{76057DD3-DEA1-4084-B520-9A35AD53BBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{76057DD3-DEA1-4084-B520-9A35AD53BBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76057DD3-DEA1-4084-B520-9A35AD53BBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{0160A0BD-8302-4412-A836-A17F292C22DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0160A0BD-8302-4412-A836-A17F292C22DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0160A0BD-8302-4412-A836-A17F292C22DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E6C3BC-7175-4150-A4AB-B808DAC25A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E6C3BC-7175-4150-A4AB-B808DAC25A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E6C3BC-7175-4150-A4AB-B808DAC25A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E6C3BC-7175-4150-A4AB-B808DAC25A4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
