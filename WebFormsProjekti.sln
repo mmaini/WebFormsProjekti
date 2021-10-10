@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NETProjekt", "ADO.NETPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterPrimjerProjekt", "MasterPrimjerProjekt\MasterPrimjerProjekt.csproj", "{525A9454-B29A-4213-8FA8-AD969D5E4D04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginProjekt", "LoginProjekt\LoginProjekt.csproj", "{0160A0BD-8302-4412-A836-A17F292C22DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{525A9454-B29A-4213-8FA8-AD969D5E4D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{525A9454-B29A-4213-8FA8-AD969D5E4D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{525A9454-B29A-4213-8FA8-AD969D5E4D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0160A0BD-8302-4412-A836-A17F292C22DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0160A0BD-8302-4412-A836-A17F292C22DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0160A0BD-8302-4412-A836-A17F292C22DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0160A0BD-8302-4412-A836-A17F292C22DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
