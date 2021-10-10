@@ -24,6 +24,7 @@ namespace ADO.NETProjekt
 
             //ovo nije dobar način za prosljeđivanje upita prema bazi jer nam u textbox netko može unijeti kod kojeg ćemo proslijediti prema bazi
             //a taj kod može potencijalno i cijelu bazu pobrisati npr. 1;DROP DATABASE Organization
+            //SQL Injection problem
             //SqlCommand command = new SqlCommand("SELECT * FROM City WHERE CountryId=" + tbUnos.Text, conn);
 
 

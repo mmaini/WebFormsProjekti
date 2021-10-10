@@ -10,6 +10,8 @@ using System.Web.UI.WebControls;
 
 namespace ADO.NETProjekt
 {
+
+    //Demo za rad s ADO.NET u Connected modu
     public partial class Connected : System.Web.UI.Page
     {
         private readonly SqlConnection _connection = new SqlConnection(ConfigurationManager.ConnectionStrings["MojConnectionString"].ToString());
@@ -33,7 +35,7 @@ namespace ADO.NETProjekt
 
         }
 
-
+        //Metoda koja dohvaća podatke iz baze i povezuje ih s Gridom
         private void Display()
         {
             _connection.Open();
